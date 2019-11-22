@@ -16,7 +16,7 @@
 
 ### 1.01
 - 初始版本,完成基本功能
-[&larr;](#ReleaseNotes)
+[&larr;](#Release Notes)
 
 ### 1.02
 - 增加串口解包接口，串口数据缓存 5KB
