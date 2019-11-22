@@ -24,11 +24,11 @@
 - 增加程序运行进度条字段
 - 优化程序运行逻辑
  
-### 1.04[](#Release Notes)
+### 1.04
 - json报告增加HRVInfo对象
 - 优化程序内存释放
 - HRVComm增加数组长度设置接口，在Jni中实现根据Sig_len返回数组大小
-
+[ ](#Release Notes)
 - #### [`1.041`](#Release Notes)
     1. 修复jni接口中波形接口数组长度传递异常
 
