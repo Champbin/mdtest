@@ -16,14 +16,15 @@
 
 ### 1.01
 - 初始版本,完成基本功能
-[<<<](#ShortHRVDetection) 
 
+[<<<](#ShortHRVDetection) 
 ### 1.02
 - 增加串口解包接口，串口数据缓存 5KB
 
 ### 1.03
 - 增加程序运行进度条字段
 - 优化程序运行逻辑
+
 [<<<](#ShortHRVDetection) 
 ### 1.04
 - json报告增加HRVInfo对象
@@ -45,5 +46,5 @@
 ### 1.06
 - 增加低通气字段
 
-<br>[<<<](#ShortHRVDetection)
+[<<<](#ShortHRVDetection)
 
