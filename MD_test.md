@@ -29,7 +29,7 @@
 - json报告增加HRVInfo对象
 - 优化程序内存释放
 - HRVComm增加数组长度设置接口，在Jni中实现根据Sig_len返回数组大小
-[&larr;](#ReleaseNotes)
+[&larr;](#ShortHRVDetection)
 - #### `1.041`
     1. 修复jni接口中波形接口数组长度传递异常
 
