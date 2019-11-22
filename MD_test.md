@@ -24,12 +24,12 @@
 ### 1.03
 - 增加程序运行进度条字段
 - 优化程序运行逻辑
- 
+<br>[<<<](#ShortHRVDetection) 
 ### 1.04
 - json报告增加HRVInfo对象
 - 优化程序内存释放
 - HRVComm增加数组长度设置接口，在Jni中实现根据Sig_len返回数组大小
-[&larr;](#ShortHRVDetection)
+
 - #### `1.041`
     1. 修复jni接口中波形接口数组长度传递异常
 
@@ -37,11 +37,13 @@
     更新HRV算法：
     1. 修复HRV间期不足100运算异常
     2. 修改HRV频谱计算长度为2047
-
+    
+<br>[<<<](#ShortHRVDetection)
 ### 1.05
 - 优化解包逻辑
 
 ### 1.06
 - 增加低通气字段
 
+<br>[<<<](#ShortHRVDetection)
 
